@@ -1,2 +1,1 @@
-# hello world --
-hi pale blue dot!
+# hi pale blue dot!
